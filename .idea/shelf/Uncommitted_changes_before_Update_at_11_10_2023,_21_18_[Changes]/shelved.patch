@@ -1,0 +1,143 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"45122dfa-1fc4-4d29-9153-ff1f456dae28\" name=\"Changes\" comment=\"new\">\n      <change afterPath=\"$PROJECT_DIR$/Bot2/sqlite.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/TelegramBot.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/TelegramBot.iml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Bot/1.py\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Bot/2.py\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Bot/TOKEN.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Bot2/TOKEN.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Bot/keyboards.py\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Bot/newdb.sql\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Bot/sqlite.py\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/requirments.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/requirments.txt\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"2Vec7ZVaTBoGj2tv5iYl7ci9GUm\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/vladi/PycharmProjects/TelegramBot/Bot2/Main.py&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\vladi\\PycharmProjects\\TelegramBot\\tests\" />\n      <recent name=\"C:\\Users\\vladi\\PycharmProjects\\TelegramBot\\Bot2\" />\n      <recent name=\"C:\\Users\\vladi\\PycharmProjects\\TelegramBot\\Bot2\\.pytest_cache\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Python tests.pytest in test_get_result.py\">\n    <configuration name=\"Python3.11\" type=\"PythonConfigurationType\" factoryName=\"Python\">\n      <module name=\"TelegramBot\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"SDK_NAME\" value=\"Python 3.11 (TelegramBot)\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Bot2/Main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"pytest in test_get_result.py\" type=\"tests\" factoryName=\"py.test\" nameIsGenerated=\"true\">\n      <module name=\"TelegramBot\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\vladi\\PycharmProjects\\TelegramBot\\venv\\Scripts\\python.exe\" />\n      <option name=\"SDK_NAME\" value=\"Python 3.11 (TelegramBot)\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Bot2\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"_new_keywords\" value=\"&quot;&quot;\" />\n      <option name=\"_new_parameters\" value=\"&quot;&quot;\" />\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\n      <option name=\"_new_target\" value=\"&quot;$PROJECT_DIR$/tests/test_get_result.py&quot;\" />\n      <option name=\"_new_targetType\" value=\"&quot;PATH&quot;\" />\n      <method v=\"2\" />\n    </configuration>\n    <list>\n      <item itemvalue=\"Python.Python3.11\" />\n      <item itemvalue=\"Python tests.pytest in test_get_result.py\" />\n    </list>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"45122dfa-1fc4-4d29-9153-ff1f456dae28\" name=\"Changes\" comment=\"\" />\n      <created>1695199819378</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1695199819378</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"new\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1697038494123</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1697038494123</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"new\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"new\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 807935999c9bcaaf9b6274b711ce59d7b3d1670d)
++++ b/.idea/workspace.xml	(date 1697038730873)
+@@ -4,37 +4,20 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="45122dfa-1fc4-4d29-9153-ff1f456dae28" name="Changes" comment="new">
+-      <change afterPath="$PROJECT_DIR$/Bot2/sqlite.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/TelegramBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TelegramBot.iml" afterDir="false" />
++    <list default="true" id="45122dfa-1fc4-4d29-9153-ff1f456dae28" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Bot/1.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Bot/2.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Bot/TOKEN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bot2/TOKEN.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Bot/keyboards.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Bot/newdb.sql" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Bot/sqlite.py" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/requirments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/sqlDataSources.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+-  </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="MarkdownSettingsMigration">
+-    <option name="stateVersion" value="1" />
+-  </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 7
+ }</component>
+@@ -47,63 +30,9 @@
+   &quot;keyToString&quot;: {
+     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vladi/PycharmProjects/TelegramBot/Bot2/Main.py&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+   }
+ }</component>
+-  <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="C:\Users\vladi\PycharmProjects\TelegramBot\tests" />
+-      <recent name="C:\Users\vladi\PycharmProjects\TelegramBot\Bot2" />
+-      <recent name="C:\Users\vladi\PycharmProjects\TelegramBot\Bot2\.pytest_cache" />
+-    </key>
+-  </component>
+-  <component name="RunManager" selected="Python tests.pytest in test_get_result.py">
+-    <configuration name="Python3.11" type="PythonConfigurationType" factoryName="Python">
+-      <module name="TelegramBot" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="SDK_NAME" value="Python 3.11 (TelegramBot)" />
+-      <option name="WORKING_DIRECTORY" value="" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bot2/Main.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="pytest in test_get_result.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+-      <module name="TelegramBot" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <option name="SDK_HOME" value="C:\Users\vladi\PycharmProjects\TelegramBot\venv\Scripts\python.exe" />
+-      <option name="SDK_NAME" value="Python 3.11 (TelegramBot)" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bot2" />
+-      <option name="IS_MODULE_SDK" value="false" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="_new_keywords" value="&quot;&quot;" />
+-      <option name="_new_parameters" value="&quot;&quot;" />
+-      <option name="_new_additionalArguments" value="&quot;&quot;" />
+-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_get_result.py&quot;" />
+-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+-      <method v="2" />
+-    </configuration>
+-    <list>
+-      <item itemvalue="Python.Python3.11" />
+-      <item itemvalue="Python tests.pytest in test_get_result.py" />
+-    </list>
+-  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -113,15 +42,6 @@
+       <option name="presentableId" value="Default" />
+       <updated>1695199819378</updated>
+     </task>
+-    <task id="LOCAL-00001" summary="new">
+-      <option name="closed" value="true" />
+-      <created>1697038494123</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1697038494123</updated>
+-    </task>
+-    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -135,8 +55,4 @@
+       </map>
+     </option>
+   </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="new" />
+-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+-  </component>
+ </project>
+\ No newline at end of file
