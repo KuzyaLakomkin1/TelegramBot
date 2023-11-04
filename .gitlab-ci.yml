@@ -4,6 +4,8 @@ stages:
 
 test-job:
   stage: test
+  tags:
+    - TestRunner
   script:
     - docker compose -f docker/test/docker-compose.yml down
     - docker compose -f docker/test/docker-compose.yml build
@@ -11,6 +13,8 @@ test-job:
 
 delivery_job:
   stage: delivery
+  tags:
+    - TestRunner
   only:
     - main
   script:
