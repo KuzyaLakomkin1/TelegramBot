@@ -1,9 +1,0 @@
-version: "3.5"
-services:
-    bot:
-      build: ../..
-      volumes:
-        - .:/app
-      environment:
-        - TOKEN="6498532972:AAFK7_UgY3nVo6CO-3kD3GkEbLvwVArpCmQ"
-      command: sh -c "cd /app/Bot2/ && python3 -m pytest"

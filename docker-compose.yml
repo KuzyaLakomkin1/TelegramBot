@@ -1,10 +1,8 @@
-version: '3.5'
+version: "3.5"
 services:
   bot:
-    build: ..
-    volumes:
-      - .:/app
-    environment:
+   build: .
+   container_name: "Telegram_bot"
+   environment:
       - TOKEN="6498532972:AAFK7_UgY3nVo6CO-3kD3GkEbLvwVArpCmQ"
-    command: sh -c "cd /app/Bot2/ && python3 Main.py"
-
+   command: sh -c "cd /app/Bot2/ && python3 Main.py"
