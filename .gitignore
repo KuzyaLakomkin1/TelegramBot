@@ -1,0 +1,4 @@
+.idea/
+.pytest_cache/
+new.db
+__pycache__
