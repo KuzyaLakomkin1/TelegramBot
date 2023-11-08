@@ -9,6 +9,7 @@ test-job:
   script:
     - docker buildx build -t telegram_bot:01 .
     - docker run -d --rm --name Test telegram_bot:01
+    - docker exec telegram_bot python3 -m pytest
 #    - docker compose -f docker-compose-test.yml down
 #    - docker compose -f docker-compose-test.yml build
 #    - docker compose -f docker-compose-test.yml up
