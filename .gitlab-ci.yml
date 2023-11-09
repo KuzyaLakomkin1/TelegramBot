@@ -26,6 +26,6 @@ delivery-job:
   only:
     - main
   script:
-    - docker login gitlabhomevlad.ru:5050
+    - docker login  -u $CI_REGISTRY_LOGIN -p $CI_REGISTRY_TOKEN
     - docker build -t gitlabhomevlad.ru:5050/root/telegrambot .
     - docker push gitlabhomevlad.ru:5050/root/telegrambot
