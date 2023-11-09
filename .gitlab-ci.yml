@@ -26,5 +26,5 @@ delivery-job:
   only:
     - main
   script:
-    - docker login  -u $CI_REGISTRY_USER -p $CI_REGISTRY_TOKEN $CI_REGISTRY
-    - docker push $CI_REGISTRY_IMAGE
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_TOKEN $CI_REGISTRY
+    - docker push $CI_REGISTRY_IMAGE $CI_REGISTRY
