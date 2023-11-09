@@ -9,7 +9,7 @@ build-job:
   tags:
     - TestRunner
   script:
-    - docker compose -f docker-compose-test.yml build -t telegrambot
+    - docker-compose -f docker-compose-test.yml build -t telegrambot
 
 test-job:
   stage: test
