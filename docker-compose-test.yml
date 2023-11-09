@@ -1,8 +1,8 @@
 version: "3.5"
 services:
     bot:
-      build: .
-      image: telegrambot:v01
+#      build: .
+#      image: telegrambot:v01
       environment:
         - TOKEN="6498532972:AAFK7_UgY3nVo6CO-3kD3GkEbLvwVArpCmQ"
       command: sh -c "cd /app && python3 -m pytest"

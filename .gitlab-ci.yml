@@ -9,7 +9,7 @@ build-job:
   tags:
     - TestRunner
   script:
-    - docker compose -f docker-compose-test.yml build
+    - docker compose -f docker-compose-test.yml -t telegrambot:v01 build
 
 test-job:
   stage: test
@@ -26,6 +26,5 @@ delivery-job:
   only:
     - main
   script:
-    - docker login  -u $CI_REGISTRY_LOGIN -p $CI_REGISTRY_TOKEN
-    - docker build -t gitlabhomevlad.ru:5050/root/telegrambot .
+    - docker login  -u $CI_REGISTRY_USER -p $CI_REGISTRY_TOKEN $CI_REGISTRY
     - docker push gitlabhomevlad.ru:5050/root/telegrambot
