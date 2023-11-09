@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45122dfa-1fc4-4d29-9153-ff1f456dae28" name="Changes" comment="change test script">
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -330,7 +331,47 @@
       <option name="project" value="LOCAL" />
       <updated>1699509663019</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="change test script">
+      <option name="closed" value="true" />
+      <created>1699509938420</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1699509938420</updated>
+    </task>
+    <task id="LOCAL-00027" summary="change test script">
+      <option name="closed" value="true" />
+      <created>1699509982567</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1699509982567</updated>
+    </task>
+    <task id="LOCAL-00028" summary="change test script">
+      <option name="closed" value="true" />
+      <created>1699510020242</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1699510020242</updated>
+    </task>
+    <task id="LOCAL-00029" summary="change test script">
+      <option name="closed" value="true" />
+      <created>1699510075505</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1699510075505</updated>
+    </task>
+    <task id="LOCAL-00030" summary="change test script">
+      <option name="closed" value="true" />
+      <created>1699510141852</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1699510141852</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
