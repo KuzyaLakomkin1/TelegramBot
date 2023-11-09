@@ -27,4 +27,4 @@ delivery-job:
     - main
   script:
     - docker login  -u $CI_REGISTRY_USER -p $CI_REGISTRY_TOKEN $CI_REGISTRY
-    - docker push gitlabhomevlad.ru:5050/root/telegrambot
+    - docker push $CI_REGISTRY_IMAGE
