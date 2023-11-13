@@ -27,5 +27,5 @@ delivery-job:
     - main
   script:
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_TOKEN $CI_REGISTRY
-    - docker tag telegrambot:v01 $CI_REGISTRY_IMAGE
+    - docker tag telegrambot:v01 $CI_REGISTRY_IMAGE:$CI_COMMIT_REF_SLUG
     - docker push $CI_REGISTRY_IMAGE
