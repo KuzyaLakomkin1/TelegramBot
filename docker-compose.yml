@@ -4,5 +4,5 @@ services:
    build: .
    container_name: "Telegram_bot"
    environment:
-      - TOKEN="6498532972:AAFK7_UgY3nVo6CO-3kD3GkEbLvwVArpCmQ"
+      - TOKEN=""
    command: sh -c "cd /app/Bot2/ && python3 Main.py"
